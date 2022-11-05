@@ -1,5 +1,8 @@
-[TOC]
+
 # algorithm
+- [algorithm](#algorithm)
+  - [PAT乙级](#pat乙级)
+  - [PAT甲级](#pat甲级)
 ## PAT乙级
 
 Problem|C++ Solution

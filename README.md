@@ -1,5 +1,5 @@
-# algorithm
 [TOC]
+# algorithm
 ## PAT乙级
 
 Problem|C++ Solution

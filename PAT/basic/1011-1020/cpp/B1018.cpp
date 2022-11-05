@@ -50,12 +50,12 @@ int main() {
     
     for (int i = 0; i < 3; i++) {
         printf("%d", resA[i]);
-        if (i == 2) printf("\n");
+        if (i == 2) printf("/n");
         else printf(" ");
     }
     for (int i = 0; i < 3; i++) {
         printf("%d", resB[i]);
-        if (i == 2) printf("\n");
+        if (i == 2) printf("/n");
         else printf(" ");
     }
     

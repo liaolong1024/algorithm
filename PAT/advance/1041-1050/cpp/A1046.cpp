@@ -24,7 +24,7 @@ int main() {
         scanf("%d%d", &a, &b);
         if (a > b) swap(a, b);
         d = dFrom0[b-1] - dFrom0[a-1];
-        printf("%d\n", min(d, sum - d));
+        printf("%d/n", min(d, sum - d));
     }
     
     return 0;

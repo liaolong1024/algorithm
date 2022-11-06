@@ -10,6 +10,7 @@ Problem|C++ Solution
 1001-1010|1001-1010
 [1001 害死人不偿命的(3n+1)猜想](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805325918486528)|[B1001.cpp](PAT/basic/1001-1010/cpp/B1001.cpp)
 [1008 数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805316250615808)|[B1008.cpp](/PAT/basic/1001-1010/cpp/B1008.cpp)
+[1010 一元多项式求导](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805313708867584)|[B1010.cpp](/PAT/basic/1001-1010/cpp/B1010.cpp)
 1011-1020|1001-1020
 [1011 A+B 和 C](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805312417021952)|[B1011.cpp](PAT/basic/1011-1020/cpp/B1011.cpp)
 [1012 数字分类](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805311146147840)|[B1012.cpp](PAT/basic/1011-1020/cpp/B1012.cpp)
@@ -27,3 +28,5 @@ Problem|C++ Solution
 1041-1050|1041-1050 
 [1042 Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805442671132672)|[A1042.cpp](PAT/advance/1041-1050/cpp/A1042.cpp)
 [1046 Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805435700199424)|[A1046.cpp](PAT/advance/1041-1050/cpp/A1046.cpp)
+1061-1070|1061-1070
+[1065 A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805406352654336)|[A1065.cpp](PAT/advance/1061-1070/cpp/A1065.cpp)

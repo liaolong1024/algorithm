@@ -1,15 +1,18 @@
-
-# algorithm
-- [algorithm](#algorithm)
+- [程序模拟](#程序模拟)
   - [PAT乙级](#pat乙级)
   - [PAT甲级](#pat甲级)
+- [查找](#查找)
+  - [PAT乙级](#pat乙级-1)
+  - [PAT甲级](#pat甲级-1)
+
+# 程序模拟
+
 ## PAT乙级
 
 Problem|C++ Solution
 --|--
 1001-1010|1001-1010
 [1001 害死人不偿命的(3n+1)猜想](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805325918486528)|[B1001.cpp](PAT/basic/1001-1010/cpp/B1001.cpp)
-[1004 成绩排名](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805321640296448)|[B1004.cpp](PAT/basic/1001-1010/cpp/B1004.cpp)
 [1008 数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805316250615808)|[B1008.cpp](/PAT/basic/1001-1010/cpp/B1008.cpp)
 [1010 一元多项式求导](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805313708867584)|[B1010.cpp](/PAT/basic/1001-1010/cpp/B1010.cpp)
 1011-1020|1001-1020
@@ -19,9 +22,8 @@ Problem|C++ Solution
 [1018 锤子剪刀布](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805304020025344)|[B1018.cpp](PAT/basic/1011-1020/cpp/B1018.cpp)
 1021-1030|1021-1030
 [1026 程序运行时间](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805295203598336)|[B1026.cpp](PAT/basic/1021-1030/cpp/B1026.cpp)
-1041-1050|1041-1050
-[1041 考试座位号](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805281567916032)|[B1041.cpp](PAT/basic/1041-1050/cpp/B1041.cpp)
 [1046 划拳](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805277847568384)|[B1046.cpp](PAT/basic/1041-1050/cpp/B1046.cpp)
+
 
 
 ## PAT甲级
@@ -36,4 +38,25 @@ Problem|C++ Solution
 1061-1070|1061-1070
 [1065 A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805406352654336)|[A1065.cpp](PAT/advance/1061-1070/cpp/A1065.cpp)
 
+# 查找
+## PAT乙级
+
+Problem|C++ Solution
+--|--
+1001-1010|1001-1010
+[1004 成绩排名](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805321640296448)|[B1004.cpp](PAT/basic/1001-1010/cpp/B1004.cpp)
+1011-1020|1001-1020
+1041-1050|1041-1050
+[1041 考试座位号](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805281567916032)|[B1041.cpp](PAT/basic/1041-1050/cpp/B1041.cpp)
+
+
+
+## PAT甲级
+Problem|C++ Solution
+--|--
+1001-1010|1001-1010 
+
+1041-1050|1041-1050 
+
+1061-1070|1061-1070
 

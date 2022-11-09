@@ -19,6 +19,9 @@ Problem|C++ Solution
 [1018 锤子剪刀布](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805304020025344)|[B1018.cpp](PAT/basic/1011-1020/cpp/B1018.cpp)
 1021-1030|1021-1030
 [1026 程序运行时间](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805295203598336)|[B1026.cpp](PAT/basic/1021-1030/cpp/B1026.cpp)
+[1028 人口普查](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805293282607104)|[B1028.cpp](PAT/basic/1021-1030/cpp/B1028.cpp)
+1031-1040|1031-1040
+[1032 挖掘机技术哪家强](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805289432236032)|[B1032.cpp](PAT/basic/1031-1040/cpp/B1032.cpp)
 1041-1050|1041-1050
 [1041 考试座位号](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805281567916032)|[B1041.cpp](PAT/basic/1041-1050/cpp/B1041.cpp)
 [1046 划拳](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805277847568384)|[B1046.cpp](PAT/basic/1041-1050/cpp/B1046.cpp)

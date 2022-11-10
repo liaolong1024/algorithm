@@ -34,7 +34,10 @@ Problem|C++ Solution
 --|--
 1001-1010|1001-1010 
 [1002 A+B for Polynomials](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805526272000000)|[A1002.cpp](PAT/advance/1001-1010/cpp/A1002.cpp)
+[1006 Sign In and Sign Out](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805516654460928)|[A1006.cpp](PAT/advance/1001-1010/cpp/A1006.cpp)
 [1009 Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805509540921344)|[A1009.cpp](PAT/advance/1001-1010/cpp/A1009.cpp)
+1011-1020|1011-1020
+[1011 World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805504927186944)|[A1011.cpp](PAT/advance/1011-1020/cpp/A1011.cpp)
 1041-1050|1041-1050 
 [1042 Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805442671132672)|[A1042.cpp](PAT/advance/1041-1050/cpp/A1042.cpp)
 [1046 Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805435700199424)|[A1046.cpp](PAT/advance/1041-1050/cpp/A1046.cpp)

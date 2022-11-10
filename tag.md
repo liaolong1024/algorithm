@@ -23,6 +23,7 @@ Problem|C++ Solution
 [1028 人口普查](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805293282607104)|[B1028.cpp](PAT/basic/1021-1030/cpp/B1028.cpp)
 1031-1040|1031-1040
 [1032 挖掘机技术哪家强](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805289432236032)|[B1032.cpp](PAT/basic/1031-1040/cpp/B1032.cpp)
+[1036 跟奥巴马一起编程](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805285812551680)|[B1036.cpp](PAT/basic/1031-1040/cpp/B1036.cpp)
 1041-1050|1041-1050
 [1041 考试座位号](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805281567916032)|[B1041.cpp](PAT/basic/1041-1050/cpp/B1041.cpp)
 [1046 划拳](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805277847568384)|[B1046.cpp](PAT/basic/1041-1050/cpp/B1046.cpp)
@@ -38,6 +39,8 @@ Problem|C++ Solution
 [1009 Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805509540921344)|[A1009.cpp](PAT/advance/1001-1010/cpp/A1009.cpp)
 1011-1020|1011-1020
 [1011 World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805504927186944)|[A1011.cpp](PAT/advance/1011-1020/cpp/A1011.cpp)
+1031-1040|1031-1040
+[1036 Boys vs Girls](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805453203030016)|[A1036.cpp](PAT/advance/1031-1040/cpp/A1036.cpp)
 1041-1050|1041-1050 
 [1042 Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805442671132672)|[A1042.cpp](PAT/advance/1041-1050/cpp/A1042.cpp)
 [1046 Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805435700199424)|[A1046.cpp](PAT/advance/1041-1050/cpp/A1046.cpp)

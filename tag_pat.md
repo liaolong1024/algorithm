@@ -13,12 +13,13 @@ Problem|C++ Solution
 [1004 成绩排名](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805321640296448)|[B1004.cpp](PAT/basic/1001-1010/cpp/B1004.cpp)
 [1008 数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805316250615808)|[B1008.cpp](/PAT/basic/1001-1010/cpp/B1008.cpp)
 [1010 一元多项式求导](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805313708867584)|[B1010.cpp](/PAT/basic/1001-1010/cpp/B1010.cpp)
-1011-1020|1001-1020
+**1011-1020**|**1001-1020**
 [1011 A+B 和 C](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805312417021952)|[B1011.cpp](PAT/basic/1011-1020/cpp/B1011.cpp)
 [1012 数字分类](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805311146147840)|[B1012.cpp](PAT/basic/1011-1020/cpp/B1012.cpp)
 [1016 部分A+B](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805306310115328)|[B1016.cpp](PAT/basic/1001-1010/cpp/B1016.cpp)
 [1018 锤子剪刀布](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805304020025344)|[B1018.cpp](PAT/basic/1011-1020/cpp/B1018.cpp)
-1021-1030|1021-1030
+**1021-1030**|**1021-1030**
+[1022 D进制的A+B](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805299301433344)|[B1022.cpp](PAT/basic/1021-1030/cpp/B1022.cpp)
 [1026 程序运行时间](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805295203598336)|[B1026.cpp](PAT/basic/1021-1030/cpp/B1026.cpp)
 [1027 打印沙漏](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805294251491328)|[B1027.cpp](PAT/basic/1021-1030/cpp/B1027.cpp)
 [1028 人口普查](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805293282607104)|[B1028.cpp](PAT/basic/1021-1030/cpp/B1028.cpp)

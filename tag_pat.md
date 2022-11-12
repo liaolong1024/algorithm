@@ -23,9 +23,10 @@ Problem|C++ Solution
 [1026 程序运行时间](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805295203598336)|[B1026.cpp](PAT/basic/1021-1030/cpp/B1026.cpp)
 [1027 打印沙漏](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805294251491328)|[B1027.cpp](PAT/basic/1021-1030/cpp/B1027.cpp)
 [1028 人口普查](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805293282607104)|[B1028.cpp](PAT/basic/1021-1030/cpp/B1028.cpp)
-1031-1040|1031-1040
+**1031-1040**|**1031-1040**
 [1032 挖掘机技术哪家强](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805289432236032)|[B1032.cpp](PAT/basic/1031-1040/cpp/B1032.cpp)
 [1036 跟奥巴马一起编程](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805285812551680)|[B1036.cpp](PAT/basic/1031-1040/cpp/B1036.cpp)
+[1037 在霍格沃茨找零钱](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805284923359232)|[B1037.cpp](PAT/basic/1031-1040/cpp/B1037.cpp)
 1041-1050|1041-1050
 [1041 考试座位号](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805281567916032)|[B1041.cpp](PAT/basic/1041-1050/cpp/B1041.cpp)
 [1046 划拳](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805277847568384)|[B1046.cpp](PAT/basic/1041-1050/cpp/B1046.cpp)
@@ -39,8 +40,9 @@ Problem|C++ Solution
 [1002 A+B for Polynomials](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805526272000000)|[A1002.cpp](PAT/advance/1001-1010/cpp/A1002.cpp)
 [1006 Sign In and Sign Out](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805516654460928)|[A1006.cpp](PAT/advance/1001-1010/cpp/A1006.cpp)
 [1009 Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805509540921344)|[A1009.cpp](PAT/advance/1001-1010/cpp/A1009.cpp)
-1011-1020|1011-1020
+**1011-1020**|**1011-1020**
 [1011 World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805504927186944)|[A1011.cpp](PAT/advance/1011-1020/cpp/A1011.cpp)
+[1019 General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805487143337984)|[A1019.cpp](PAT/advance/1011-1020/cpp/A1019.cpp)
 1031-1040|1031-1040
 [1031 Hello World for U](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805462535356416)|[A1031.cpp](PAT/advance/1031-1040/cpp/A1031.cpp)
 [1036 Boys vs Girls](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805453203030016)|[A1036.cpp](PAT/advance/1031-1040/cpp/A1036.cpp)

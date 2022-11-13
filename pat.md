@@ -42,12 +42,16 @@ Problem|C++ Solution
 **1011-1020**|**1011-1020**
 [1011 World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805504927186944)|[A1011.cpp](PAT/advance/1011-1020/cpp/A1011.cpp)
 [1019 General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805487143337984)|[A1019.cpp](PAT/advance/1011-1020/cpp/A1019.cpp)
+**1021-1030**|**1021-1030**
+[1027 Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805470349344768)|[A1027.cpp](PAT/advance/1021-1030/cpp/A1027.cpp)
 1031-1040|1031-1040
 [1031 Hello World for U](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805462535356416)|[A1031.cpp](PAT/advance/1031-1040/cpp/A1031.cpp)
 [1036 Boys vs Girls](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805453203030016)|[A1036.cpp](PAT/advance/1031-1040/cpp/A1036.cpp)
 1041-1050|1041-1050 
 [1042 Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805442671132672)|[A1042.cpp](PAT/advance/1041-1050/cpp/A1042.cpp)
 [1046 Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805435700199424)|[A1046.cpp](PAT/advance/1041-1050/cpp/A1046.cpp)
+**1051-1060**|**1051-1060**
+[1058 A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805416519647232)|[A1058.cpp](PAT/advance/1051-1060/cpp/A1058.cpp)
 1061-1070|1061-1070
 [1065 A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805406352654336)|[A1065.cpp](PAT/advance/1061-1070/cpp/A1065.cpp)
 

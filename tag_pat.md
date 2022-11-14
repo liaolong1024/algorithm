@@ -8,10 +8,12 @@
 
 Problem|C++ Solution
 --|--
-1001-1010|1001-1010
+**1001-1010**|**1001-1010**
 [1001 害死人不偿命的(3n+1)猜想](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805325918486528)|[B1001.cpp](PAT/basic/1001-1010/cpp/B1001.cpp)
 [1004 成绩排名](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805321640296448)|[B1004.cpp](PAT/basic/1001-1010/cpp/B1004.cpp)
+[1006 换个格式输出整数](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805318855278592)|[B1006.cpp](PAT/basic/1001-1010/cpp/B1006.cpp)
 [1008 数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805316250615808)|[B1008.cpp](/PAT/basic/1001-1010/cpp/B1008.cpp)
+[1009 说反话](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805314941992960)|[B1009.cpp](/PAT/basic/1001-1010/cpp/B1009.cpp)
 [1010 一元多项式求导](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805313708867584)|[B1010.cpp](/PAT/basic/1001-1010/cpp/B1010.cpp)
 **1011-1020**|**1001-1020**
 [1011 A+B 和 C](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805312417021952)|[B1011.cpp](PAT/basic/1011-1020/cpp/B1011.cpp)

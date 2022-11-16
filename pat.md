@@ -9,6 +9,7 @@ Problem|C++ Solution
 --|--
 **1001-1010**|**1001-1010**
 [1001 害死人不偿命的(3n+1)猜想](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805325918486528)|[B1001.cpp](PAT/basic/1001-1010/cpp/B1001.cpp)
+[1002 写出这个数](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805324509200384)|[B1002.cpp](PAT/basic/1001-1010/cpp/B1002.cpp)
 [1004 成绩排名](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805321640296448)|[B1004.cpp](PAT/basic/1001-1010/cpp/B1004.cpp)
 [1006 换个格式输出整数](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805318855278592)|[B1006.cpp](PAT/basic/1001-1010/cpp/B1006.cpp)
 [1008 数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805316250615808)|[B1008.cpp](/PAT/basic/1001-1010/cpp/B1008.cpp)
@@ -17,6 +18,7 @@ Problem|C++ Solution
 1011-1020|1001-1020
 [1011 A+B 和 C](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805312417021952)|[B1011.cpp](PAT/basic/1011-1020/cpp/B1011.cpp)
 [1012 数字分类](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805311146147840)|[B1012.cpp](PAT/basic/1011-1020/cpp/B1012.cpp)
+[1014 福尔摩斯的约会](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805308755394560)|[B1014.cpp](PAT/basic/1011-1020/cpp/B1014.cpp)
 [1016 部分A+B](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805306310115328)|[B1016.cpp](PAT/basic/1001-1010/cpp/B1016.cpp)
 [1018 锤子剪刀布](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805304020025344)|[B1018.cpp](PAT/basic/1011-1020/cpp/B1018.cpp)
 **1021-1030**|**1021-1030**
@@ -56,7 +58,8 @@ Problem|C++ Solution
 [1046 Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805435700199424)|[A1046.cpp](PAT/advance/1041-1050/cpp/A1046.cpp)
 **1051-1060**|**1051-1060**
 [1058 A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805416519647232)|[A1058.cpp](PAT/advance/1051-1060/cpp/A1058.cpp)
-1061-1070|1061-1070
+**1061-1070**|**1061-1070**
+[1061 Dating)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805411985604608)|[A1061.cpp](PAT/advance/1061-1070/cpp/A1061.cpp)
 [1065 A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805406352654336)|[A1065.cpp](PAT/advance/1061-1070/cpp/A1065.cpp)
 
 

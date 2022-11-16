@@ -10,4 +10,6 @@
 **1031-1040**|**1031-1040**
 [35. 搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[0035.java](leetcode/1031-1040/java/0035.java)
 **1061-1070**|**1061-1070**
-[66. 加一](https://leetcode.cn/problems/plus-one/)|[0066.java](leetcode/1031-1040/java/0066.java)
+[66. 加一](https://leetcode.cn/problems/plus-one/)|[0066.java](leetcode/1061-1070/java/0066.java)
+**1081-1090**|**1081-1090**
+[88. 合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)|[0088.java](leetcode/1081-1090/java/0088.java)

@@ -24,6 +24,7 @@ Problem|C++ Solution
 **1021-1030**|**1021-1030**
 [1021 个位数统计](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805300404535296)|[B1021.cpp](PAT/basic/1021-1030/cpp/B1021.cpp)
 [1022 D进制的A+B](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805299301433344)|[B1022.cpp](PAT/basic/1021-1030/cpp/B1022.cpp)
+[1024 科学计数法](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805297229447168)|[B1024.cpp](PAT/basic/1021-1030/cpp/B1024.cpp)
 [1026 程序运行时间](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805295203598336)|[B1026.cpp](PAT/basic/1021-1030/cpp/B1026.cpp)
 [1027 打印沙漏](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805294251491328)|[B1027.cpp](PAT/basic/1021-1030/cpp/B1027.cpp)
 [1028 人口普查](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805293282607104)|[B1028.cpp](PAT/basic/1021-1030/cpp/B1028.cpp)
@@ -32,9 +33,10 @@ Problem|C++ Solution
 [1032 挖掘机技术哪家强](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805289432236032)|[B1032.cpp](PAT/basic/1031-1040/cpp/B1032.cpp)
 [1036 跟奥巴马一起编程](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805285812551680)|[B1036.cpp](PAT/basic/1031-1040/cpp/B1036.cpp)
 [1037 在霍格沃茨找零钱](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805284923359232)|[B1037.cpp](PAT/basic/1031-1040/cpp/B1037.cpp)
-1041-1050|1041-1050
+**1041-1050**|**1041-1050**
 [1041 考试座位号](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805281567916032)|[B1041.cpp](PAT/basic/1041-1050/cpp/B1041.cpp)
 [1046 划拳](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805277847568384)|[B1046.cpp](PAT/basic/1041-1050/cpp/B1046.cpp)
+[1048 数字加密](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805276438282240)|[B1048.cpp](PAT/basic/1041-1050/cpp/B1048.cpp)
 
 
 ## PAT甲级

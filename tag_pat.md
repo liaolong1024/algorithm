@@ -44,8 +44,10 @@ Problem|C++ Solution
 ## PAT甲级
 Problem|C++ Solution
 --|--
-1001-1010|1001-1010 
+**1001-1010**|**1001-1010**
+[1001 A+B Format](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805528788582400)|[A1001.cpp](PAT/advance/1001-1010/cpp/A1001.cpp)
 [1002 A+B for Polynomials](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805526272000000)|[A1002.cpp](PAT/advance/1001-1010/cpp/A1002.cpp)
+[1005 Spell It Right](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805519074574336)|[A1005.cpp](PAT/advance/1001-1010/cpp/A1005.cpp)
 [1006 Sign In and Sign Out](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805516654460928)|[A1006.cpp](PAT/advance/1001-1010/cpp/A1006.cpp)
 [1009 Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805509540921344)|[A1009.cpp](PAT/advance/1001-1010/cpp/A1009.cpp)
 **1011-1020**|**1011-1020**
@@ -53,8 +55,9 @@ Problem|C++ Solution
 [1019 General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805487143337984)|[A1019.cpp](PAT/advance/1011-1020/cpp/A1019.cpp)
 **1021-1030**|**1021-1030**
 [1027 Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805470349344768)|[A1027.cpp](PAT/advance/1021-1030/cpp/A1027.cpp)
-1031-1040|1031-1040
+**1031-1040**|**1031-1040**
 [1031 Hello World for U](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805462535356416)|[A1031.cpp](PAT/advance/1031-1040/cpp/A1031.cpp)
+[1035 Password](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805454989803520)|[A1035.cpp](PAT/advance/1031-1040/cpp/A1035.cpp)
 [1036 Boys vs Girls](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805453203030016)|[A1036.cpp](PAT/advance/1031-1040/cpp/A1036.cpp)
 1041-1050|1041-1050 
 [1042 Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805442671132672)|[A1042.cpp](PAT/advance/1041-1050/cpp/A1042.cpp)

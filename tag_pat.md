@@ -67,3 +67,8 @@ Problem|C++ Solution
 **1061-1070**|**1061-1070**
 [1061 Dating)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805411985604608)|[A1061.cpp](PAT/advance/1061-1070/cpp/A1061.cpp)
 [1065 A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805406352654336)|[A1065.cpp](PAT/advance/1061-1070/cpp/A1065.cpp)
+**1071-1080**|**1071-1080**
+[1077 Kuchiguse)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805390896644096)|[A1077.cpp](PAT/advance/1071-1080/cpp/A1077.cpp)
+**1081-1090**|**1081-1090**
+[1082 Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805385053978624)|[A1082.cpp](PAT/advance/1081-1090/cpp/A1082.cpp)
+

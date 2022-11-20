@@ -18,6 +18,7 @@ class Solution {
         for (int i = (rowIndex-1) / 2 ; i >= 0; i--) {
             ans.add(ans.get(i));
         }
+        
         return ans;
     }
 }

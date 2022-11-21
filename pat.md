@@ -52,6 +52,7 @@ Problem|C++ Solution
 [1011 World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805504927186944)|[A1011.cpp](PAT/advance/1011-1020/cpp/A1011.cpp)
 [1019 General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805487143337984)|[A1019.cpp](PAT/advance/1011-1020/cpp/A1019.cpp)
 **1021-1030**|**1021-1030**
+[1025 PAT Ranking](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805474338127872)|[A1025.cpp](PAT/advance/1021-1030/cpp/A1025.cpp)
 [1027 Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805470349344768)|[A1027.cpp](PAT/advance/1021-1030/cpp/A1027.cpp)
 **1031-1040**|**1031-1040**
 [1031 Hello World for U](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805462535356416)|[A1031.cpp](PAT/advance/1031-1040/cpp/A1031.cpp)
@@ -64,6 +65,7 @@ Problem|C++ Solution
 [1058 A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805416519647232)|[A1058.cpp](PAT/advance/1051-1060/cpp/A1058.cpp)
 **1061-1070**|**1061-1070**
 [1061 Dating)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805411985604608)|[A1061.cpp](PAT/advance/1061-1070/cpp/A1061.cpp)
+[1062 Talent and Virtue)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805410555346944)|[A1062.cpp](PAT/advance/1061-1070/cpp/A1062.cpp)
 [1065 A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805406352654336)|[A1065.cpp](PAT/advance/1061-1070/cpp/A1065.cpp)
 **1071-1080**|**1071-1080**
 [1077 Kuchiguse)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805390896644096)|[A1077.cpp](PAT/advance/1071-1080/cpp/A1077.cpp)

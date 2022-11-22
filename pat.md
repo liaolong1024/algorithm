@@ -50,6 +50,8 @@ Problem|C++ Solution
 1011-1020|1011-1020
 **1011-1020**|**1011-1020**
 [1011 World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805504927186944)|[A1011.cpp](PAT/advance/1011-1020/cpp/A1011.cpp)
+[1012 The Best Rank](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805502658068480)|[A1012.cpp](PAT/advance/1011-1020/cpp/A1012.cpp)
+[1016 Phone Bills](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805493648703488)|[A1016.cpp](PAT/advance/1011-1020/cpp/A1016.cpp)
 [1019 General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805487143337984)|[A1019.cpp](PAT/advance/1011-1020/cpp/A1019.cpp)
 **1021-1030**|**1021-1030**
 [1025 PAT Ranking](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805474338127872)|[A1025.cpp](PAT/advance/1021-1030/cpp/A1025.cpp)

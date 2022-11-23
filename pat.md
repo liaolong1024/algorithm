@@ -15,10 +15,11 @@ Problem|C++ Solution
 [1008 数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805316250615808)|[B1008.cpp](/PAT/basic/1001-1010/cpp/B1008.cpp)
 [1009 说反话](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805314941992960)|[B1009.cpp](/PAT/basic/1001-1010/cpp/B1009.cpp)
 [1010 一元多项式求导](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805313708867584)|[B1010.cpp](/PAT/basic/1001-1010/cpp/B1010.cpp)
-1011-1020|1001-1020
+**1011-1020**|**1001-1020**
 [1011 A+B 和 C](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805312417021952)|[B1011.cpp](PAT/basic/1011-1020/cpp/B1011.cpp)
 [1012 数字分类](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805311146147840)|[B1012.cpp](PAT/basic/1011-1020/cpp/B1012.cpp)
 [1014 福尔摩斯的约会](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805308755394560)|[B1014.cpp](PAT/basic/1011-1020/cpp/B1014.cpp)
+[1015 德才论](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805307551629312)|[B1015.cpp](PAT/basic/1011-1020/cpp/B1015.cpp)
 [1016 部分A+B](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805306310115328)|[B1016.cpp](PAT/basic/1001-1010/cpp/B1016.cpp)
 [1018 锤子剪刀布](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805304020025344)|[B1018.cpp](PAT/basic/1011-1020/cpp/B1018.cpp)
 **1021-1030**|**1021-1030**
@@ -56,6 +57,7 @@ Problem|C++ Solution
 **1021-1030**|**1021-1030**
 [1025 PAT Ranking](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805474338127872)|[A1025.cpp](PAT/advance/1021-1030/cpp/A1025.cpp)
 [1027 Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805470349344768)|[A1027.cpp](PAT/advance/1021-1030/cpp/A1027.cpp)
+[1028 List Sorting](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805468327690240)|[A1028.cpp](PAT/advance/1021-1030/cpp/A1028.cpp)
 **1031-1040**|**1031-1040**
 [1031 Hello World for U](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805462535356416)|[A1031.cpp](PAT/advance/1031-1040/cpp/A1031.cpp)
 [1035 Password](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805454989803520)|[A1035.cpp](PAT/advance/1031-1040/cpp/A1035.cpp)
@@ -64,6 +66,7 @@ Problem|C++ Solution
 [1042 Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805442671132672)|[A1042.cpp](PAT/advance/1041-1050/cpp/A1042.cpp)
 [1046 Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805435700199424)|[A1046.cpp](PAT/advance/1041-1050/cpp/A1046.cpp)
 **1051-1060**|**1051-1060**
+[1055 The World's Richest](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805421066272768)|[A1055.cpp](PAT/advance/1051-1060/cpp/A1055.cpp)
 [1058 A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805416519647232)|[A1058.cpp](PAT/advance/1051-1060/cpp/A1058.cpp)
 **1061-1070**|**1061-1070**
 [1061 Dating)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805411985604608)|[A1061.cpp](PAT/advance/1061-1070/cpp/A1061.cpp)

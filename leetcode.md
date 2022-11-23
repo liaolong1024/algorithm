@@ -19,3 +19,8 @@
 [119. 杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/)|[0119.java](leetcode/0111-0120/java/0119.java)
 **0121-0130**|**0121-0130**
 [121. 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)|[0121.java](leetcode/0121-0130/java/0121.java)
+**0131-0140**|**0131-0140**
+[136. 只出现一次的数字](https://leetcode.cn/problems/single-number/)|[0136.java](leetcode/0131-0140/java/0136.java)
+
+
+**下一标签: 位运算**

@@ -22,7 +22,7 @@
 **0131-0140**|**0131-0140**
 [136. 只出现一次的数字](https://leetcode.cn/problems/single-number/)|[0136.java](leetcode/0131-0140/java/0136.java)
 **0161-0170**|**0161-0170**
-[136. 只出现一次的数字](https://leetcode.cn/problems/single-number/)|[0169.java](leetcode/0161-0170/java/0169.java)
+[169. 多数元素](https://leetcode.cn/problems/majority-element/)|[0169.java](leetcode/0161-0170/java/0169.java)
 
 
 **下一标签: 位运算**

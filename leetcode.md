@@ -23,6 +23,10 @@
 [136. 只出现一次的数字](https://leetcode.cn/problems/single-number/)|[0136.java](leetcode/0131-0140/java/0136.java)
 **0161-0170**|**0161-0170**
 [169. 多数元素](https://leetcode.cn/problems/majority-element/)|[0169.java](leetcode/0161-0170/java/0169.java)
-
+**0211-0220**|**0211-0220**
+[217. 存在重复元素](https://leetcode.cn/problems/contains-duplicate/)|[0217.java](leetcode/0211-0220/java/0217.java)
+[219. 存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/)|[0219.java](leetcode/0211-0220/java/0219.java)
+**0281-0290**|**0281-0290**
+[283. 移动零](https://leetcode.cn/problems/contains-duplicate-ii/)|[0283.java](leetcode/0281-0290/java/0283.java)
 
 **下一标签: 位运算**

@@ -75,8 +75,9 @@ Problem|C++ Solution
 **1071-1080**|**1071-1080**
 [1075 PAT Judge](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805393241260032)|[A1075.cpp](PAT/advance/1071-1080/cpp/A1075.cpp)
 [1077 Kuchiguse)](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805390896644096)|[A1077.cpp](PAT/advance/1071-1080/cpp/A1077.cpp)
+[1080 Graduate Admission](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805387268571136)|[A1080.cpp](PAT/advance/1071-1080/cpp/A1080.cpp)
 **1081-1090**|**1081-1090**
 [1082 Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805385053978624)|[A1082.cpp](PAT/advance/1081-1090/cpp/A1082.cpp)
 [1083 List Grades](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805383929905152)|[A1083.cpp](PAT/advance/1081-1090/cpp/A1083.cpp)
-
-
+**1091-1100**|**1091-1100**
+[1095 Cars on Campus](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805371602845696)|[A1095.cpp](PAT/advance/1091-1100/cpp/A1095.cpp)

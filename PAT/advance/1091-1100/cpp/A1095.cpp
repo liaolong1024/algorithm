@@ -27,6 +27,9 @@ bool cmpByOut(InOut a, InOut b) {
     return a.out < b.out;
 }
 
+/**
+  该题未通过
+*/
 int main() {
     
     int n, k;

@@ -29,9 +29,11 @@ Problem|C++ Solution
 [1026 程序运行时间](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805295203598336)|[B1026.cpp](PAT/basic/1021-1030/cpp/B1026.cpp)
 [1027 打印沙漏](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805294251491328)|[B1027.cpp](PAT/basic/1021-1030/cpp/B1027.cpp)
 [1028 人口普查](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805293282607104)|[B1028.cpp](PAT/basic/1021-1030/cpp/B1028.cpp)
+[1029 旧键盘](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805292322111488)|[B1029.cpp](PAT/basic/1021-1030/cpp/B1029.cpp)
 **1031-1040**|**1031-1040**
 [1031 查验身份证](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805290334011392)|[B1031.cpp](PAT/basic/1031-1040/cpp/B1031.cpp)
 [1032 挖掘机技术哪家强](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805289432236032)|[B1032.cpp](PAT/basic/1031-1040/cpp/B1032.cpp)
+[1033 旧键盘打字](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805288530460672)|[B1033.cpp](PAT/basic/1031-1040/cpp/B1033.cpp)
 [1036 跟奥巴马一起编程](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805285812551680)|[B1036.cpp](PAT/basic/1031-1040/cpp/B1036.cpp)
 [1037 在霍格沃茨找零钱](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805284923359232)|[B1037.cpp](PAT/basic/1031-1040/cpp/B1037.cpp)
 **1041-1050**|**1041-1050**
@@ -79,5 +81,6 @@ Problem|C++ Solution
 **1081-1090**|**1081-1090**
 [1082 Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805385053978624)|[A1082.cpp](PAT/advance/1081-1090/cpp/A1082.cpp)
 [1083 List Grades](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805383929905152)|[A1083.cpp](PAT/advance/1081-1090/cpp/A1083.cpp)
+[1084 Broken Keyboard](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805382902300672)|[A1084.cpp](PAT/advance/1081-1090/cpp/A1084.cpp)
 **1091-1100**|**1091-1100**
 [1095 Cars on Campus](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805371602845696)|[A1095.cpp](PAT/advance/1091-1100/cpp/A1095.cpp)

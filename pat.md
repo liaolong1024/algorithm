@@ -36,6 +36,8 @@ Problem|C++ Solution
 [1033 旧键盘打字](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805288530460672)|[B1033.cpp](PAT/basic/1031-1040/cpp/B1033.cpp)
 [1036 跟奥巴马一起编程](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805285812551680)|[B1036.cpp](PAT/basic/1031-1040/cpp/B1036.cpp)
 [1037 在霍格沃茨找零钱](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805284923359232)|[B1037.cpp](PAT/basic/1031-1040/cpp/B1037.cpp)
+[1038 统计同成绩学生](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805284092887040)|[B1038.cpp](PAT/basic/1031-1040/cpp/B1038.cpp)
+[1039 到底买不买](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805283241443328)|[B1039.cpp](PAT/basic/1031-1040/cpp/B1039.cpp)
 **1041-1050**|**1041-1050**
 [1041 考试座位号](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805281567916032)|[B1041.cpp](PAT/basic/1041-1050/cpp/B1041.cpp)
 [1046 划拳](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805277847568384)|[B1046.cpp](PAT/basic/1041-1050/cpp/B1046.cpp)
@@ -64,7 +66,7 @@ Problem|C++ Solution
 [1031 Hello World for U](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805462535356416)|[A1031.cpp](PAT/advance/1031-1040/cpp/A1031.cpp)
 [1035 Password](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805454989803520)|[A1035.cpp](PAT/advance/1031-1040/cpp/A1035.cpp)
 [1036 Boys vs Girls](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805453203030016)|[A1036.cpp](PAT/advance/1031-1040/cpp/A1036.cpp)
-1041-1050|1041-1050 
+**1041-1050**|**1041-1050**
 [1042 Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805442671132672)|[A1042.cpp](PAT/advance/1041-1050/cpp/A1042.cpp)
 [1046 Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805435700199424)|[A1046.cpp](PAT/advance/1041-1050/cpp/A1046.cpp)
 **1051-1060**|**1051-1060**
@@ -83,4 +85,5 @@ Problem|C++ Solution
 [1083 List Grades](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805383929905152)|[A1083.cpp](PAT/advance/1081-1090/cpp/A1083.cpp)
 [1084 Broken Keyboard](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805382902300672)|[A1084.cpp](PAT/advance/1081-1090/cpp/A1084.cpp)
 **1091-1100**|**1091-1100**
+[1092 To Buy or Not to Buy](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805374509498368)|[A1092.cpp](PAT/advance/1091-1100/cpp/A1092.cpp)
 [1095 Cars on Campus](https://pintia.cn/problem-sets/994805342720868352/exam/problems/994805371602845696)|[A1095.cpp](PAT/advance/1091-1100/cpp/A1095.cpp)

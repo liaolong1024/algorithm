@@ -40,6 +40,8 @@ Problem|C++ Solution
 [1039 到底买不买](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805283241443328)|[B1039.cpp](PAT/basic/1031-1040/cpp/B1039.cpp)
 **1041-1050**|**1041-1050**
 [1041 考试座位号](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805281567916032)|[B1041.cpp](PAT/basic/1041-1050/cpp/B1041.cpp)
+[1042 字符统计](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805280817135616)|[B1042.cpp](PAT/basic/1041-1050/cpp/B1042.cpp)
+[1043 输出PATest](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805280074743808)|[B1043.cpp](PAT/basic/1041-1050/cpp/B1043.cpp)
 [1046 划拳](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805277847568384)|[B1046.cpp](PAT/basic/1041-1050/cpp/B1046.cpp)
 [1048 数字加密](https://pintia.cn/problem-sets/994805260223102976/exam/problems/994805276438282240)|[B1048.cpp](PAT/basic/1041-1050/cpp/B1048.cpp)
 
